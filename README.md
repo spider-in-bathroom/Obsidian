@@ -1,2 +1,2 @@
 # Test
-These are the markdown files for the [linked-blog-starter](https://github.com/matthewwong525/linked-blog-starter) repository
+link to my [git](https://github.com/spider-in-bathroom/Obsidian)
