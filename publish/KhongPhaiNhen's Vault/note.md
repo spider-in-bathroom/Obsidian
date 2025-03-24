@@ -1,4 +1,0 @@
-Project_Id : prj_HWMkdiCkKaQbWyMSpF1nX45HHuta
-User_Id : JdNnAcdutUAO6T9hv8WlNZZI
-Vercel_Id : 6IAGdViztyvkgzwQXEOHnJWg
-Github_Token : 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
