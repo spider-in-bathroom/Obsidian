@@ -53,3 +53,5 @@
 27. *I had a Physics exam today, i think i did it well but when comparing answers with my classmates i got some wrong, cant tell if im wrong or they are.
 
 28. *A week or two have passed, and because of that this one will be rather long as we have a lot to catch up. The exams went pretty well, i tried my best and the results were acceptable. 8/3 was a success, all the girls loved it. Also my sister gave birth to my nephew today, at 11:30 to be exact, i hope that my sister will recover soon. I have decided to lock in from today, so hopefully i will see this screen everyday. GLHF.
+
+29. *Today has been a long day, a lot of work, a lot of study. But i couldn't rest in my room since i didn't have the energy to clean it after my dad moved my stuffs so i slept in my sister's room* 
