@@ -24,4 +24,16 @@ Jour 2 : *Le météo (Weather)*
 9. Orage - Storm
 10. Éclair - Lighting
 
-Jour 3
+Jour 3 : *Les transports (Transportation)*
+1. Voiture - Car
+2. Train - Train
+3. Avion - Plane
+4. Bus - Bus
+5. Métro - Subway
+6. Vélo - Bike
+7. Moto - Motocycle 
+8. Bateau - Boat
+9. Taxi - Taxi
+10. Arrêt - Stop (Bus stop)
+
+Jour 4 : 
