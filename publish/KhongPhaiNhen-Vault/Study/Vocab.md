@@ -36,4 +36,14 @@ Jour 3 : *Les transports (Transportation)*
 9. Taxi - Taxi
 10. Arrêt - Stop (Bus stop)
 
-Jour 4 : 
+Jour 4 :  *Les vêtements (Cloathing)*
+1. T-Shirt - T-shirt
+2. Pantalon - Pants
+3. Robe - Dress
+4. Chaussures - Shoes
+5. Chapeau - Hat
+6. Manteau - Coat
+7. Écharpe - Scarf
+8. Gants - Gloves
+9. Short - Shorts
+10. Chaussettes - Socks

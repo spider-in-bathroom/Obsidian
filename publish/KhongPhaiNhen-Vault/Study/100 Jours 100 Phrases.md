@@ -57,3 +57,7 @@
 29. *Today has been a long day, a lot of work, a lot of study. But i couldn't rest in my room since i didn't have the energy to clean it after my dad moved my stuffs so i slept in my sister's room* 
 
 30. *Since the prep for picture day is taking alot of my time, i couldn't find the time to lock in like i said on the first day of the week. Because of that i think will have to move the schedule to next week*
+
+31. *Today is just study then draw for the rest of the day, at this point i just want it to be over* 
+
+32. 
