@@ -47,3 +47,17 @@ Jour 4 :  *Les vêtements (Cloathing)*
 8. Gants - Gloves
 9. Short - Shorts
 10. Chaussettes - Socks
+
+Jour 5 : *L'ecole (School)*
+1. Cahier - Notebook
+2. Bureau - Desk
+3. Élève - Student
+4. Professeur - Teacher
+5. Tableau - Board
+6. Examen - Exam
+7. Récréation - Recess
+8. Matière - Subject
+9. Note - Grade
+10. Devoirs - Homework
+
+Jour 6 :

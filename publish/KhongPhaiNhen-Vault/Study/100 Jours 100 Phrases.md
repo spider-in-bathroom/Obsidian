@@ -60,4 +60,6 @@
 
 31. *Today is just study then draw for the rest of the day, at this point i just want it to be over* 
 
-32. 
+32. *Today is picture day, the event lasted for the entire day, it was exhausting. It took my class and I 7 days to prepare for today and i think it went well, i got some really good pictures. Although it was no where near perfect but spending time with friends, for me, is more important than any pictures. Im glad i pushed myself to the end. (Also no studying today, lock in next week)*
+
+33. *My sister and my mom brought me a new ego mouse today, i liked it. Also my dad and i built a my new chair a few days ago, im slowly changing my gears*
