@@ -1,3 +1,3 @@
-# Test
+# KhongPhaiNhen's personal study vault
 
-:3
+Here lies everything i am learning about French, The CS50 course, ...()

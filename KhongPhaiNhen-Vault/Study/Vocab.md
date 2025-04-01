@@ -60,4 +60,14 @@ Jour 5 : *L'ecole (School)*
 9. Note - Grade
 10. Devoirs - Homework
 
-Jour 6 :
+Jour 6 : *Les direction (Direction)*
+1. Gauche - Left
+2. Droite - Right
+3. Tout Droit - Straight ahead
+4. Intersection - Intersection
+5. Feu Rouge - Traffic light
+6. Carrefour - Crossroad
+7. Tourner - To Turn
+8. Panneau - Sign
+9. Rond-point - Roundabout
+10. Chemin - Path
