@@ -66,4 +66,4 @@
 
 34. *Today wasn't anything special, all i did was study. I started the cs50 course. 8 days till HSR 3.2 update, which i really look forward to*
 
-35. 
+35. *Nothing really happened today, i tried to get a new hair-cut but the style is kinda silly for me so i ended up not doing it.*

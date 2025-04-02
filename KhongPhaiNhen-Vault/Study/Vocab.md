@@ -71,3 +71,15 @@ Jour 6 : *Les direction (Direction)*
 8. Panneau - Sign
 9. Rond-point - Roundabout
 10. Chemin - Path
+
+Jour 7 : *Les émotions (Emotion)*
+1. Heureux / Heureuse - Happy
+2. Triste - Sad
+3. En colère - Angry
+4. Excité - Excited
+5. Stressé - Stressed
+6. Surpris - Surprised
+7. Fatigué - Tired
+8. Calme - Calm
+9. Peur - Fear
+10. Amoureux / Amoureuse - In love
